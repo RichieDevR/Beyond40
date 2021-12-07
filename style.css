@@ -14,14 +14,14 @@ body {
 
 	text-decoration: none;
 
-	color:	#ffab41 ;
+	color: #0092d6;
 }
 
 .checked {
 	font-size: 13px;
 	width: 13px;
 	height: 13px;
-	color: #ffab41;
+	color: #0092d6;
 }
 
 .unchecked {
@@ -53,8 +53,6 @@ body {
 	white-space: nowrap;
 	font-size: 37px;
 	font-weight: 900;
-
-
 }
 
 h3 {
@@ -109,41 +107,41 @@ h3 {
 .bar-5 {
 	width: 95%;
 	height: 20px;
-	background-color: #ffab41;
+	background-color: #0092d6;
 }
 
 .bar-4 {
 	width: 10%;
 	height: 20px;
-	background-color: #ffab41;
+	background-color: #0092d6;
 }
 
 
 .bar-3 {
 	width: 3%;
 	height: 20px;
-	background-color: #ffab41;
+	background-color: #0092d6;
 }
 
 .bar-2 {
 	width: 0%;
 	height: 20px;
-	background-color: #ffab41;
+	background-color: #0092d6;
 }
 
 .bar-1 {
 	width: 0%;
 	height: 20px;
-	background-color: #ffab41;
+	background-color: #0092d6;
 }
 
 .summary-overview {
 	width: 100%;
-  text-align: center;
+	text-align: center;
 }
 
-.total{
-  font-weight:lighter
+.total {
+	font-weight: lighter
 }
 
 .buttons {
