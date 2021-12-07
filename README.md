@@ -2,4 +2,5 @@
 Copy of  UMZU.com Review section Header as part of Web Developer task. Live version found at https://beyond40-one.vercel.app
 
 
-![image](https://user-images.githubusercontent.com/78895761/145120269-2a8718a0-9045-40f7-8ca0-ec225f765848.png)
+![beyond40blue](https://user-images.githubusercontent.com/78895761/145122547-fbbb1a8f-36be-4f3d-84c4-e0c491d991cf.png)
+
