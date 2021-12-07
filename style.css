@@ -14,14 +14,14 @@ body {
 
 	text-decoration: none;
 
-	color: #ffd700;
+	color:	#ffab41 ;
 }
 
 .checked {
 	font-size: 13px;
 	width: 13px;
 	height: 13px;
-	color: #ffd700;
+	color: #ffab41;
 }
 
 .unchecked {
@@ -30,14 +30,6 @@ body {
 	height: 13px;
 	color: #3a3a3a;
 }
-
-.summary-content {
-/* 	width: 500%; */
-/* 	max-width: 1200px; */
-/* 	margin: auto; */
-
-}
-
 
 .reviews {
 	text-align: center;
@@ -117,32 +109,32 @@ h3 {
 .bar-5 {
 	width: 95%;
 	height: 20px;
-	background-color: #ffd700;
+	background-color: #ffab41;
 }
 
 .bar-4 {
 	width: 10%;
 	height: 20px;
-	background-color: #ffd700;
+	background-color: #ffab41;
 }
 
 
 .bar-3 {
 	width: 3%;
 	height: 20px;
-	background-color: #ffd700;
+	background-color: #ffab41;
 }
 
 .bar-2 {
 	width: 0%;
 	height: 20px;
-	background-color: #ffd700;
+	background-color: #ffab41;
 }
 
 .bar-1 {
 	width: 0%;
 	height: 20px;
-	background-color: #ffd700;
+	background-color: #ffab41;
 }
 
 .summary-overview {
