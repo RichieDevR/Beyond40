@@ -6,7 +6,7 @@ const role = document.querySelector('.role');
 
 const testimonials = [{
 		name: 'Maria M.',
-		description: 'Verified Buyer',
+		position: 'Verified Buyer',
 		photo: "https://randomuser.me/api/portraits/women/46.jpg",
 		text: "Approximately two weeks into the product I noticed an improved sense of wellness and my breathing seemed more alive.At any rate, I love that the product is free of fillers and cheap ingredients found with so many so-called natural supplements.Give it a try !I think you'll become a quick fan like myself.",
 	}, {
